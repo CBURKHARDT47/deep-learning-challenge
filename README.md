@@ -7,7 +7,7 @@
 ## 1. Overview of the Analysis
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
-## 2. Results: Using bulleted lists and images to support your answers, address the following questions:
+## 2. Results
 
 ### Data Preprocessing
 I read in the charity_data.csv to a Pandas DataFrame from the URL provided in the Jupyter Notebook file opened through Google Colab. Using my knowledge of Pandas and scikit-learn’s StandardScaler(), I preprocessed the dataset. 
@@ -35,4 +35,4 @@ The first attempt was about 73% accurate but we were aiming for at least 75% acc
 
 What steps did you take in your attempts to increase model performance?
 
-### 3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+### 3. Summary
