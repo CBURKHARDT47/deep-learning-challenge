@@ -22,7 +22,7 @@ The "IS_SUCCESSFUL" variable was the target for my model. A value of '1' meant t
 
 ### Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-There were 3 layers in total after applying the neutral networks. The number of hidden nodes in the hidden layer is typically determined based on various factors, including the number of features in your dataset and your specific problem. There is no strict rule that the number of hidden nodes should be equal to the number of features, but it's a common approach so I went with that approach. Multiple layers should be used as this helps to train the machine learning model based on filtering the data through the multiple layers. 
+There were 3 layers in total after applying the neutral networks. The number of hidden nodes in the hidden layer is typically determined based on various factors, including the number of features in your dataset and your specific problem. There is no strict rule that the number of hidden nodes should be equal to the number of features, but it's a common approach so I went with that approach. 
 ![image](https://github.com/CBURKHARDT47/deep-learning-challenge/assets/128064003/6ac13979-5a28-4a88-b8eb-0dd48b4a6768)
 
 
@@ -37,6 +37,11 @@ The first attempt was about 73% accurate but we were aiming for at least 75% acc
 
 What steps did you take in your attempts to increase model performance?
 I attempted to optimize the model during the second attempt using the "NAME" column and this increased the accuracy from 73% to 79% with 3,298 parameters.
+![image](https://github.com/CBURKHARDT47/deep-learning-challenge/assets/128064003/d293bd26-7f74-4561-8c21-bde94cc561a3)
+
+Multiple layers should be used as this helps to train the machine learning model based on filtering the data through the multiple layers. 
+![image](https://github.com/CBURKHARDT47/deep-learning-challenge/assets/128064003/c3dfe264-cd6b-4aa3-acc0-0e2de2fe3a1b)
 
 
 ### 3. Summary
+
