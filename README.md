@@ -27,6 +27,7 @@ There were 3 layers in total after applying the neutral networks. The number of 
 
 
 There were 477 parameters created by the 3 layers in the training model. 
+![image](https://github.com/CBURKHARDT47/deep-learning-challenge/assets/128064003/21238164-cb8d-4d4b-b2e7-e1f718155a83)
 
 
 Were you able to achieve the target model performance?
