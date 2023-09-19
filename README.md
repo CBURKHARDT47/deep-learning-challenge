@@ -44,4 +44,4 @@ Multiple layers should be used as this helps to train the machine learning model
 
 
 ### 3. Summary
-
+Deep learning and neural networks were used to determine funding decisions for new applicants by analyzing the data regarding whether or not prior funding instances were successful or unsuccessful from a data set of 34,000 organizations. The desired model was to be above 75% accurate in predicting whether or not a new funding case would be successful or unsuccessful prior to funding. I began by removing any irrelevant information and splitting the data into training and testing sets. I used cut off points of 500 then 100 to bin the data. Then, categorical data was encoded into numeric using get_dummies(). 
