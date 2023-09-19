@@ -3,7 +3,6 @@
  ![AI-artificial-intelligence-brain-deep-learning](https://github.com/CBURKHARDT47/deep-learning-challenge/assets/128064003/7b908228-7830-42ca-a7ce-d4af0deff47c)
 
 
-
 ## 1. Overview of the Analysis
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
